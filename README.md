@@ -13,15 +13,15 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 - 🌱 Passionate software engineer committed to continuous learning and technological advancement.
-- 🔭 Currently working on **Backend Development** and learning **PYTHON**.
+- 🔭 Am a full stack developer good at Java.
 - 👯 Open to collaborating on **Frontend Projects**.
 - 💬 Tech stack: Version Control (Git, GitHub), HTML, CSS, JavaScript, C, C++, Java, Spring Boot, Python, PHP, Laravel, MySQL, PostgreSQL, NoSQL.
 
 ## Contact
-- 📫 How to reach me: [bettsonk@gmail.com](mailto:bettsonk@gmail.com).
+- 📫 How to reach me: [jaredthomas570j@gmail.com](mailto:jaredthomas570jk@gmail.com).
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/bettson.kiptoo.1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bettson-kiptoo-551b33246/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BettsonKiptoo1)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jaredthomas570) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bettson-kiptoo-551b33246/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BettsonKiptoo1)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
