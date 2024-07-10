@@ -1,8 +1,10 @@
-# Hi there 👋, I'm Jared Thomas
+# Hi 👋, I'm Jared Thomas
 <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jared+Thomas+%F0%9F%91%8B%3B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+++Full-Stack+Developer%3BSoftware+Engineer%3BProblem+Solver%3BCodebase%3A++Stable+" alt="Headline" />
 
 # 💻 Random Computer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=computer)
+
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jaredthomas01&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 
 <p align="right">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -56,4 +58,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
