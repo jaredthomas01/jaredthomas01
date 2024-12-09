@@ -1,4 +1,5 @@
 # Hi 👋, I'm Jared Thomas
+# WhatsApp contact +254715661280
 <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jared+Thomas+%F0%9F%91%8B%3B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+++Full-Stack+Developer%3BSoftware+Engineer%3BProblem+Solver%3BCodebase%3A++Stable+" alt="Headline" />
 
 # 💻 Random Computer Quote
