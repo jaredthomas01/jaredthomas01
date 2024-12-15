@@ -49,15 +49,18 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaredthomas01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jaredthomas01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredthomas01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+ [![jared's github stats](https://bad-apple-github-readme.vercel.app/api?username=jaredthomas01&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=jaredthomas01&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Jared Thomas's current streak](https://streak-stats.demolab.com/?user=jaredthomas01&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaredthomas01&limit=5&theme=chalk&combine_all_yearly_contributions=true)
-[![jaredthomas01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaredthomas01&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jared's Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=jaredthomas01&limit=5&theme=blue-green&combine_all_yearly_contributions=true)](#)
 
+[![Jared's Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaredthomas01&bg_color=ffffff&color=00b3ff&line=00b3ff&point=00b3ff&area=true&hide_border=true)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
