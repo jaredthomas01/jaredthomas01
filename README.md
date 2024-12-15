@@ -1,8 +1,8 @@
 # Hi 👋, I'm Jared Thomas
- You can reach me through: <img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:dev.jaredthomas570j@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/254715661280" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/jared-thomas570/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+ You can reach me through: <a href="mailto:dev.jaredthomas570j@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/254715661280" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/jared-thomas570/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
 
-<img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jared+Thomas+%F0%9F%91%8B%3B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+++Full-Stack+Developer%3BSoftware+Engineer%3BProblem+Solver%3BCodebase%3A++Stable+" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jared+Thomas+%F0%9F%91%8B%3B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+++Full-Stack+Developer%3BFullstack+developer%3BProblem+Solver%3BCodebase%3A++Stable+" alt="Headline" />
 
 # 💻 Random Computer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=computer)
@@ -14,17 +14,17 @@
   <img src="https://komarev.com/ghpvc/?username=jaredthomas01&label=Profile%20views&color=0e75b6&style=flat" alt="jaredthomas01" />
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 - 🌱 Passionate software developer committed to continuous learning and technological advancement.
-- 🔭 Am a full stack developer good at Java.
+- 🔭 Am a full stack developer.
 - 👯 Open to Open to project collaborations.
 - 💬 Tech stack: MERN, MEAN, RoR, LAMP, Version Control (Git, GitHub), HTML, CSS, JavaScript, C, C++, Java, Spring Boot, Python, PHP, Laravel, MySQL, PostgreSQL, NoSQL.
 
 ## Contact
-- 📫 How to reach me: [jaredthomas570j@gmail.com](mailto:jaredthomas570jk@gmail.com).
-
+- <a href="mailto:dev.jaredthomas570j@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/254715661280" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/jared-thomas570/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jaredthomas570) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bettson-kiptoo-551b33246/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BettsonKiptoo1)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jared-thomas570/)
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jinela)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -53,13 +53,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaredthomas01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaredthomas01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![wakatime](https://wakatime.com/badge/github/jaredthomas01/jaredthomas01.svg)](https://wakatime.com/badge/github/jaredthomas01/jaredthomas01)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaredthomas01&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 [![jaredthomas01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaredthomas01&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
