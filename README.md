@@ -17,7 +17,7 @@
 ## **About me**
 - 🌱 Passionate software developer committed to continuous learning and technological advancement.
 - 🔭 Am a full stack developer.
-- 👯 Open to Open to project collaborations.
+- 👯 Open to project collaborations.
 - 💬 Tech stack: MERN, MEAN, RoR, LAMP, Version Control (Git, GitHub), HTML, CSS, JavaScript, C, C++, Java, Spring Boot, Python, PHP, Laravel, MySQL, PostgreSQL, NoSQL.
 
 ## Contact
