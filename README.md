@@ -18,7 +18,7 @@
 - 🌱 Passionate software developer committed to continuous learning and technological advancement.
 - 🔭 Am a full stack developer.
 - 👯 Open to project collaborations.
-- 💬 Tech stack: MERN, MEAN, RoR, LAMP, Version Control (Git, GitHub), HTML, CSS, JavaScript, C, C++, Java, Spring Boot, Python, PHP, Laravel, MySQL, PostgreSQL, NoSQL.
+- 💬 Tech stack: MERN, MEAN, RoR, LAMP, Version Control (Git, GitHub), HTML, CSS, JavaScript, C, C++, Java, Spring Boot, PHP, Laravel, MySQL, PostgreSQL, NoSQL.
 
 ## Contact
 - <a href="mailto:dev.jaredthomas570j@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/254715661280" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/jared-thomas570/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
