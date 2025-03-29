@@ -26,7 +26,7 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jared-thomas570/)
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jinela)
 ## Buy me coffee
-<a href="https://buymeacoffee.com/jaredthomas"><img  alt="By me coffee" title="Buy me coffee" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+<a href="https://buymeacoffee.com/jaredthomas"><img  alt="By me coffee" title="Buy me coffee" src="https://img.shields.io/static/v1?message=buymecoffee&logo=buymecoffee&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
